@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Telechargez le fichier d'installation dans le repo et suivez les instructions indiquées dans le manuel d'installation.
+- Télechargez le fichier d'installation dans le repo et suivez les instructions indiquées dans le manuel d'installation.
 
 ## Preview
 ### Light Mode 
@@ -24,6 +24,7 @@
 - NASRI Alaeddine.
 
 ## Links
+> here's a link to the full documentation below 
 * [Documentation](https://lourguioui.github.io/TopoGiraffeDocs/)
 
 ## Contributions
