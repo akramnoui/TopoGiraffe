@@ -24,7 +24,7 @@
 - NASRI Alaeddine.
 
 ## Links
-* [Documentation](https://aimeos.org/docs/TYPO3)
+* [Documentation](https://lourguioui.github.io/TopoGiraffeDocs/)
 
 ## Contributions
 
